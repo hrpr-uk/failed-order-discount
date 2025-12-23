@@ -13,10 +13,10 @@ Fixes the issue in WooCommerce where failed orders prevent discount codes from b
 
 ## Description
 
-Failed order discount solves the common problem where discount codes cannot be reused after a failed order. This lightweight plugin ensures your customers can apply their discount codes without hassle, even if a previous transaction did not go through successfully.
+Failed order discount solves the common problem where WooCommerce discount codes cannot be reused after a failed order. This lightweight plugin ensures your customers can apply their discount codes without hassle, even if a previous transaction did not go through successfully.
 
 ### Features:
-- Automatically resets the "used" status of discount codes on failed orders.
+- Automatically resets the "used" status of WooCommerce discount codes on failed orders.
 - Simple, single-file solution—no extra configuration required.
 - Lightweight and efficient.
 
